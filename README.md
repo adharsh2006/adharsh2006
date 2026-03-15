@@ -1,30 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Hi%20There...%20👁️&fontSize=70&animation=fadeIn&fontColor=3b82f6" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:0055aa&height=200&section=header&text=SYSTEM%20BOOT%20INITIATED...&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </p>
 
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=ADHARSH+V+S;AI+Neural+Architect;Full-Stack+Shadow;Decoding+Reality..." alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=45&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=ADHARSH+V+S;AI+Neural+Architect;Shadow+Developer;Intercepting+Signals..." alt="Typing SVG" /> </p>
 
 ---
 
 ### 📡 System Intelligence
 * 🧠 **Neural Exploration**: Deep diving into the architectures of **Computer Vision** and **Reinforcement Learning**.
-* 🚀 **Real-World Impact**: I don't just build models; I bridge the gap between abstract research and tangible, "freaky" efficient tools.
-* 🌐 **Social Engineering**: Using **Deep Learning** to solve high-stakes social and urban challenges.
+* 🚀 **Real-World Impact**: Bridging the gap between abstract research and tangible, "freaky" efficient tools.
+* 🌐 **Social Engineering**: Utilizing **Deep Learning** to solve high-stakes urban and security challenges.
 
 ---
 
-### 🕹️ Active Missions (The Projects)
-* 🚦 **Urban Chaos Controller (DDQN)**: Mitigating city traffic congestion using Double Deep Q-Networks. I taught an AI to manage the world's most frustrating problem.
-* 🛡️ **The Protocol Ghost**: A self-learning ML framework designed to haunt and hunt protocol anomalies in network traffic.
-* 📜 **PS-GRNN Prophet**: Authored research on Position-Sensitive Gated Recurrent Neural Networks for predictive urban flow.
-* ⚙️ **NIT Trichy Data-Ops**: Spent my internship optimizing model performance and wrestling complex datasets into submission.
+### 🕹️ Active Missions
+* 🚦 **Urban Chaos Controller**: Mitigating traffic congestion using **DDQN Reinforcement Learning**.
+* 🛡️ **The Protocol Ghost**: A self-learning framework hunting anomalies in real-time network traffic.
+* 📜 **PS-GRNN Publication**: Authored research on Position-Sensitive Gated Recurrent Neural Networks.
+* ⚙️ **NIT Trichy Data-Ops**: Successfully optimized model performance during a high-intensity ML internship.
 
 ---
 
 ### ⚡ Player Attributes
-* 🧩 **Logic Engine**: I optimize code until it runs like liquid butter.
+* 🧩 **Logic Engine**: Optimizing code until it runs like liquid butter.
 * 🌈 **Motto**: "Stay curious, stay kind, stay caffeinated ☕"
-* 🤩 **Intuition**: I visualize the algorithm's pulse before I ever touch the keyboard.
+* 🤩 **Intuition**: I visualize the algorithm's pulse before the first line of code is written.
 
 ---
 
@@ -46,8 +46,6 @@
 <a href="mailto:vsadharsh0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adharsh2006&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
@@ -56,5 +54,5 @@
 
 ### 🎮 End Game
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHYyeGN2Zzh6Z3Z4bmR6Z3Z4bmR6Z3Z4bmR6Z3Z4bmR6Z3Z4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/fTfM7Y3R99y907bJ4A/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VxdXo5Z3Z4bmR6Z3Z4bmR6Z3Z4bmR6Z3Z4bmR6Z3Z4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/fTfM7Y3R99y907bJ4A/giphy.gif" width="500" />
 </p>
