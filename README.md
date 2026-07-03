@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" width="100%" src="https://raw.githubusercontent.com/adharsh2006/protfolio/main/assets/banner.gif"/>
+<img align="center" alt="Banner" width="100%" src="https://raw.githubusercontent.com/adharsh2006/protfolio/main/assets/banner-v2.gif"/>
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
