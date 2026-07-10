@@ -9,7 +9,7 @@
 
 <div align="left">
   <p>
-    👋 <strong>Welcome to my profile!</strong> I'm an AI Engineer and Full Stack Developer focused on designing and building intelligent systems where cutting-edge AI model architectures meet robust software engineering. Currently pursuing my studies at <strong>SRM Institute of Science and Technology (CGPA: 9.3/10)</strong>, I have hands-on research and development experience, most notably as an <strong>Intern at NIT Trichy</strong>.
+    👋 <strong>Welcome to my profile!</strong> I'm an AI Engineer and Full Stack Developer focused on designing and building intelligent systems where cutting-edge AI model architectures meet robust software engineering. Currently pursuing my studies at <strong>SRM Institute of Science and Technology </strong>, I have hands-on research and development experience, most notably as an <strong>Intern at NIT Trichy</strong>.
   </p>
 
   <p>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:vsadharsh0@gmail.com"><img src="https://img.shields.io/badge/📧_vsadharsh0@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_To_Opportunities-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎓_CGPA_9.3-1e1e2e?style=for-the-badge" />
+    
   </p>
 
 <h3>🌐 Socials</h3>
